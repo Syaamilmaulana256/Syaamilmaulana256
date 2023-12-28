@@ -1,23 +1,18 @@
-<a href="https://discordapp.com/users/1088006543900942379" target="blank"><img src="https://discord.c99.nl/widget/theme-1/1088006543900942379.png"></img></a>
-```html
-<!DOCTYPE html>
-<html>
-<head>
-<title>A Websites...</title>
-<style>
-marquee {
-color: green;
-}
-</style>
-</head>
-<body>
-<marquee>Hi👋!, Welcome to a website😁!</marquee>
-<button onclick="testfunction()">Click here to showing a <code>alert()</code>!</button>
-<script>
-function testfunction() {
-alert("You have been click this button!")
-}
-</script>
-</body>
-</html>
+<a href="https://discordapp.com/users/1187257698572574754" target="blank"><img src="https://discord.c99.nl/widget/theme-1/1187257698572574754.png"></img></a>
+
+I'm Only Coding `HTML, CSS & JS`
+
+*little using chatgpt/bard*
+
+```js
+Uncaught: TypeError: Unexpected End Of Input "," line:59
 ```
+
+You may ask me, *where you live?*[^1]
+
+> [!WARNING]
+> Maybe i'm focus to my repo, so *dont distrub me*
+
+
+[^1]:I'm From 🇮🇩
+

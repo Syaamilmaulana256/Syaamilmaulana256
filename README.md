@@ -14,7 +14,7 @@
   + Phone and Laptop(old laptop)
 - *What are the reasons to become a programmer?*
   + Because, I wanted to make something that made me *curious*, so I studied it and then did it (<ins>maybe in the future I will make a *web portfolio*</ins>)
-- *Can you design, make websites work and so on*
+- *Can you design, make websites work and so on?*
   + As for design, **I can't** because <ins>*I'm really bad at CSS*, and as for making *websites functional and lively*</ins>, I probably **still can**
 - *Can I support you besides giving you money (or saweria because you are not over 18?)*
   + **Yes, you can help me** in ways such as giving <ins>*suggestions, learning HTML, CSS and JS more deeply, etc*</ins>

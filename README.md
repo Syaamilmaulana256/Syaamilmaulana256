@@ -1,5 +1,5 @@
 <div align="center">
-<b><p>👋 Hey there! I'm Syaamil, Welcome to my Github profile,<br/>I'm are human but like coding and also I'm rarely using Github</p><b>
+<b><p>👋 Hey there! I'm Syaamil, Welcome to my Github profile<br/>I'm are human but like coding and also I'm rarely using Github</p><b>
 <br/><br/>
 
 ### Platform and Language 
